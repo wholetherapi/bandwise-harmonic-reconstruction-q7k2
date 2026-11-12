@@ -44,8 +44,8 @@ classification with self-supervised embeddings.
 
 ## Featured preprint
 
-- **Ferncast-2: a low-power autonomous acoustic recorder for long-duration soundscape surveys -- field validation across three continents**
-  — Rosalind Farrow, Tomas Lindqvist, Adaeze Nwosu, Priya Raman — arXiv:2506.13902 (posted 2025-06-30)
+- **Ferncast: a low-power autonomous acoustic recorder for long-duration soundscape surveys**
+  — Rosalind Farrow, Tomas Lindqvist, Adaeze Nwosu — arXiv:2302.08471 (posted 2023-02-16)
 
 ## Contact
 
