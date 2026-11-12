@@ -1,0 +1,18 @@
+# Site identity
+title: "Rosalind Farrow — Thornbury Institute"
+tagline: "Ecoacoustics and passive acoustic monitoring"
+description: "Personal academic profile of Rosalind Farrow, Thornbury Institute for Terrestrial Ecology."
+baseurl: ""
+url: "https://thornbury-eco.org"
+
+markdown: kramdown
+permalink: /:title/
+plugins: []
+
+author:
+  name: "Rosalind Farrow"
+  role: "Postdoctoral researcher (PDR-2 band)"
+  affiliation: "Thornbury Institute for Terrestrial Ecology"
+  email: "r.farrow@thornbury-eco.org"
+  orcid: "0000-0002-7714-9083"
+  github: "rfarrow-eco"

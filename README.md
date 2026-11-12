@@ -1,21 +1,14 @@
-# Bandwise Harmonic Reconstruction (BHR)
+# Thornbury academic profile template
 
-Community reference implementation of the Research Systems Division technical
-report **Bandwise Harmonic Reconstruction for Wideband Speech Restoration** (RSD-2026-0184).
-
-This repository implements the artifact named in the report above and nothing
-else.  It contains the bandwise harmonic analysis/synthesis pipeline, the
-phase-coherence reconstruction stage, training scripts, and the objective
-evaluation harness described in the report.
+A minimal Jekyll starter used by the Thornbury Institute web team for staff profile
+sites. Copy the repository, then edit `_config.yml` and `index.md`.
 
 ## Layout
 
-- `bhr/analysis.py` -- bandwise harmonic decomposition
-- `bhr/synthesis.py` -- coherent harmonic reconstruction
-- `bhr/metrics.py` -- report evaluation metrics
-- `examples/` -- sample utterances and inference snippets
+- `_config.yml` — site metadata and the site owner's identity block
+- `index.md` — the profile front page (YAML front matter + Markdown)
+- `publications.md` — a stub for the full publication list
+- `_layouts/profile.html` — the profile page layout
+- `assets/css/site.css` — site styles
 
-## Status
-
-Reference code accompanying RSD-2026-0184.  Issues track reproduction reports,
-parameter sweeps, and pipeline questions.
+Placeholders are intentional: every new site is supposed to replace them.
